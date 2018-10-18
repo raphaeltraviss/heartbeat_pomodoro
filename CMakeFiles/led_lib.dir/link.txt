@@ -1,0 +1,2 @@
+/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/avr-gcc-ar rcs libled_lib.a  CMakeFiles/led_lib.dir/neopixel/Adafruit_NeoPixel.cpp.obj
+/Applications/Arduino.app/Contents/Java/hardware/tools/avr/bin/avr-gcc-ranlib libled_lib.a
